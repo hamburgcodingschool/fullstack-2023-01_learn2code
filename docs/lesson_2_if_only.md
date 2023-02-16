@@ -38,3 +38,5 @@ if (condition) {
 ```
 
 `condition` need to be an expression that results in either true or false. This is true for our comparison operators like `>, >=, <, <=, ==, ===, !=, !==` (We haven't looked at all of these).
+
+We'll look at conditions in more detail in the next lesson. There is a lot of figure out.
