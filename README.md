@@ -5,10 +5,12 @@
 ### ✏️ Homework
 
 - [Lesson 1](homework/lesson_1.md)
+- [Lesson 1](homework/lesson_2.md)
 
 ### 📄 Docs
 
 - [Lesson 1 Summary](docs/lesson_1_variables.md)
+- [Lesson 2 Summary](docs/lesson_2_if_only.md)
 
 ### 🤔 Questions?
 

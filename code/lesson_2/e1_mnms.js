@@ -8,7 +8,11 @@
 // Output should look like this:
 // Daddy gets 12 M&M's
 
-let kids = 7
-let sweets = 60
+let prompt = require('prompt-sync')();
 
-// ??
+let kids = prompt("How many kids? ");
+let sweets = prompt("How many M&Ms? ");
+
+let remaining = sweets % kids;
+
+console.log("Daddy gets " + remaining + " M&Ms.");
