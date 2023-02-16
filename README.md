@@ -5,7 +5,7 @@
 ### ✏️ Homework
 
 - [Lesson 1](homework/lesson_1.md)
-- [Lesson 1](homework/lesson_2.md)
+- [Lesson 2](homework/lesson_2.md)
 
 ### 📄 Docs
 
