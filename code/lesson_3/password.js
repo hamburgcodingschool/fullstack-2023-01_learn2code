@@ -6,4 +6,8 @@ let password = "correct horse battery staple";
 let enteredUsername = prompt("Username: ");
 let enteredPassword = prompt("Password: ");
 
-console.log("You're not allowed in");
+if (enteredUsername === username && enteredPassword === password) {
+  console.log("Welcome to the system!")
+} else {
+  console.log("You're not allowed in");
+}
