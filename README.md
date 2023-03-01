@@ -9,6 +9,7 @@
 - [Lesson 3](homework/lesson_3.md)
 - [Lesson 5](homework/lesson_5.md)
 - [Lesson 6](homework/lesson_6.md)
+- [Lesson 6](homework/lesson_7.md)
 
 ### 📄 Docs
 
@@ -17,6 +18,7 @@
 - [Lesson 3 Summary](docs/lesson_3_conditions.md)
 - [Lesson 5 Summary](docs/lesson_5_while_and_for.md)
 - [Lesson 6 Summary](docs/lesson_6_dinge.md)
+- [Lesson 6 Summary](docs/lesson_7_functions.md)
 
 ### 🤔 Questions?
 
